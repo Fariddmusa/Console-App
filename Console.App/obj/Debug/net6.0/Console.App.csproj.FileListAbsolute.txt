@@ -1,0 +1,5 @@
+C:\Users\ferid\source\repos\Console.App\Console.App\obj\Debug\net6.0\Console.App.csproj.AssemblyReference.cache
+C:\Users\ferid\source\repos\Console.App\Console.App\obj\Debug\net6.0\Console.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferid\source\repos\Console.App\Console.App\obj\Debug\net6.0\Console.App.AssemblyInfoInputs.cache
+C:\Users\ferid\source\repos\Console.App\Console.App\obj\Debug\net6.0\Console.App.AssemblyInfo.cs
+C:\Users\ferid\source\repos\Console.App\Console.App\obj\Debug\net6.0\Console.App.csproj.CoreCompileInputs.cache
